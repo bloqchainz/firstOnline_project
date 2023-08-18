@@ -1,7 +1,3 @@
-
-<?php
-    $welcome = 'Hello and welcome to my world';
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,8 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>
-        <?php echo $welcome; ?>
-    </h1>
+    <h1>Welcome, Please Login</h1>
 </body>
 </html>
